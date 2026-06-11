@@ -23,7 +23,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # =========================================================================
 # ⚙️ CONFIGURACIÓN GLOBAL DE API KEY (INTEGRACIÓN CON CLIENTE DE GEMINI)
 # =========================================================================
-DEFAULT_API_KEY = "AIzaSyA6zjXlY9gyL1kqCUI0GxLz5EV4r8ARs_s"
+DEFAULT_API_KEY = 
 
 # Configuración de página de Streamlit para OKC
 st.set_page_config(
